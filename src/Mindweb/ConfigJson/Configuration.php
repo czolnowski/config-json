@@ -4,7 +4,7 @@ namespace Mindweb\ConfigJson;
 use JMS\Serializer;
 use Mindweb\Config;
 
-class ConfigurationJson extends Config\Configuration
+class Configuration extends Config\Configuration
 {
     protected  function init()
     {
